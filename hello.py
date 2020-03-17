@@ -1,1 +1,1 @@
-print('Hello python & github');
+print('Hello python & git rock');
